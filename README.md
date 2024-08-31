@@ -9,7 +9,7 @@
  * Sport and Academics
  * Last but not the least, tech.
 
-## Projects I've worked on the most:
+## Projects I've worked on the most: (I've archived mine as I am quitting everything. Sorry everyone)
 * [Dark Mode](https://github.com/the-real-techiee/DarkModeAU) Among Us - By me
 * [Level Spoofing](https://github.com/the-real-techiee/LevelSpoofer) for Among Us - By me
 * [Not Enough Features](https://github.com/EpicHorrors/NotEnoughFeatures) - By [EpicHorrors](https://github.com/EpicHorrors)
