@@ -2,13 +2,6 @@
 ### Who am I
  A passionate high school student interested in coding and casual gaming!!
 
- ## What I am good at:
- * Logical thinking
- * Analytical skills
- * Speed Cubing
- * Sport and Academics
- * Last but not the least, tech.
-
 ## Projects I've worked on the most: <h4>(I've archived mine as I am quitting everything. Sorry everyone)</h4>
 * [Dark Mode](https://github.com/the-real-techiee/DarkModeAU) Among Us - By me
 * [Level Spoofing](https://github.com/the-real-techiee/LevelSpoofer) for Among Us - By me
