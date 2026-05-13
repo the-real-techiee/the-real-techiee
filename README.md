@@ -6,8 +6,6 @@
 * [Dark Mode](https://github.com/the-real-techiee/DarkModeAU) Among Us - By me
 * [Level Spoofing](https://github.com/the-real-techiee/LevelSpoofer) for Among Us - By me
 * [Not Enough Features](https://github.com/EpicHorrors/NotEnoughFeatures) - By [EpicHorrors](https://github.com/EpicHorrors)
-<p align="center"><h4><b><s>**I might release more projects over time</s> Will I?</b></h4></p>
-
 
 <p align="center"> 
 <img src="Techie.gif">
