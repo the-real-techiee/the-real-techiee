@@ -8,7 +8,7 @@
 * [Not Enough Features](https://github.com/EpicHorrors/NotEnoughFeatures) - By [EpicHorrors](https://github.com/EpicHorrors)
 <p align="center"><h4><b><s>**I might release more projects over time</s> Will I?</b></h4></p>
 
-## This is pretty much about me!! Love you all
+
 <p align="center"> 
 <img src="Techie.gif">
 </p>
